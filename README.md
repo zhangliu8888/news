@@ -3,5 +3,6 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -tf-wwww.myhome.fasfaa,wwww.myhome.fasfaa,wwww.myhome.fasfaa,wwww.myhome.fasfaa,wwww.myhome.fasfaa,wwww.myhome.fasfaa,wwww.myhome.fasfaa,wwww.myhome.fasfaa-tf-
 -mayiquzhuan-fsa.d42512.space-mayiquzhuan-
 -xingye2-xy.e2342.space/wap-xingye2-
+-xingye3-xy.e2342.space/wap,xingye.c2408832.space/wap,xingye.c24456432.space/wap-xingye3-
 -mayiqubao-qu.d9696.space-mayiqubao-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
