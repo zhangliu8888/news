@@ -4,5 +4,5 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -mayiquzhuan-fsa.d42512.space-mayiquzhuan-
 -xingye2-sm.e464.space/wap-xingye2-
 -xingye3-xy.e2342.space/wap/logo.png,xingye.c2408832.space/wap/logo.png,xingye.c24456432.space/wap/logo.png,simu.e453.space/wap/logo.png,sm.e464.space/wap/logo.png-xingye3-
--mayiqubao-qu.d9696.space-mayiqubao-
+-mayiqubao-bao.e535.space-mayiqubao-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
