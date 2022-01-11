@@ -7,4 +7,5 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -tf-tf.e657.space/logo.png,tfvip.e32424.space/logo.png,tf.e657.space/logo.png,tf.b2427.space/logo.png,tf.a23424.live/logo.png-tf-
 -kok-kok.a5658.live/logo.png-kok-
 -miliao-im.a32234.live/logo.png,im.a2423.live/logo.png,ml.a2342.live/logo.png-miliao-
+-myqz2-myqb.b2428.site/logo.png-myqz2-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
