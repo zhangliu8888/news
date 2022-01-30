@@ -10,4 +10,5 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -myqz2-myqb.b2428.site/logo.png,132.e36300.site/logo.png,dfs.e46425.site/logo.png-myqz2-
 -diyishanghai-fa.hasf343.space/logo.png,hsa.asfa535.space/logo.png,fa.hsag2424.space/logo.png,haf.sfah424.space/logo.png,sfa.gafa42.space/logo.png,sga.sag324.space/logo.pngasf.c69696.space/logo.png,a24.c6868.space/logo.png,fadh.b4118.space/logo.png,fasa.b4217.space/logo.png,dysh.b5752.site/logo.png,fasfs.e23422.site/logo.png,323.e3242.site/logo.png,fah.e3538.site/logo.png,422.e686378.site/logo.png,kfa.e6429.site/logo.png-diyishanghai-
 -aliguoji-ali.e5765.site/logo.png-aliguoji-
+-tf2-f234.site/logo.png,f23253.site/logo.png,f1335.site/logo.png,tf.e9842.site/logo.png,tf.e9442.site/logo.png,tf.e9242.site/logo.png-tf2-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
