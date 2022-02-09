@@ -12,5 +12,5 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -aliguoji-ali.e5765.site/logo.png-aliguoji-
 -tf2-f234.site/logo.png,f23253.site/logo.png,f1335.site/logo.png,tf.e9842.site/logo.png,tf.e9442.site/logo.png,tf.e9242.site/logo.png-tf2-
 -hq-hq.exrng.xyz/logo.png,guanqui.top/logo.png-hq-
--lf-hm.f3537.site/logo.png,f3532.site/logo.png,f353.site/logo.png,f3453.site/logo.png-lf-
+-hmjr-hm.f3537.site/logo.png,f3532.site/logo.png,f353.site/logo.png,f3453.site/logo.png-hmjr-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
