@@ -14,7 +14,7 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -tf2-f234.site/logo.png,f23253.site/logo.png,f1335.site/logo.png,tf.e9842.site/logo.png,tf.e9442.site/logo.png,tf.e9242.site/logo.png-tf2-
 -hq-hq.exrng.xyz/logo.png,guanqui.top/logo.png-hq-
 -hmjr-hm.f3537.site/logo.png,f3532.site/logo.png,f353.site/logo.png,f3453.site/logo.png-hmjr-
--ganghui-api.hfsa32.site/logo.png-ganghui-
+-ganghui-api.hfsa32.site/logo.png,api.h3426.site/logo.png-ganghui-
 -zhongnan-api.f68660.site/logo.png-zhongnan-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 
