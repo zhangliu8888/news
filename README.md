@@ -18,5 +18,6 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -zhongnan-api.f68660.site/logo.png,api.j23444.site/logo.png-zhongnan-
 -guoxinjigou-api.h3221.site/logo.png,j23489.site/logo.png,api.j64421.site/logo.png-guoxinjigou-
 -ztcy-wap.g12333.site/logo.png,wap.g2342.site/logo.png,wap.g23426.site/logo.png,wap.g5642.site/logo.png-ztcy-
+-globalexchange-globalexchange.g4648.site/logo.png-globalexchange-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 
