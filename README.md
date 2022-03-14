@@ -19,6 +19,6 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -guoxinjigou-api.h3221.site/logo.png,j23489.site/logo.png,api.j64421.site/logo.png-guoxinjigou-
 -ztcy-wap.g12333.site/logo.png,wap.g2342.site/logo.png,wap.g23426.site/logo.png,wap.g5642.site/logo.png-ztcy-
 -globalexchange-globalexchange.g4648.site/logo.png-globalexchange-
-xingye4api.g67860.site/logo.pngxingye4
+-xingye4-api.g67860.site/logo.png-xingye4-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 
