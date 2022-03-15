@@ -4,7 +4,7 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -xingye2-sm.e464.space/wap-xingye2-
 -xingye3-xy.e2342.space/wap/logo.png,xingye.c2408832.space/wap/logo.png,xingye.c24456432.space/wap/logo.png,simu.e453.space/wap/logo.png,sm.e464.space/wap/logo.png-xingye3-
 -mayiqubao-qubao.f6866.site-mayiqubao-
--mayiqubao2-qubao.f6866.site/logo.png,quabo.f6786.site/logo.png,	qubao.e57572.site/logo.png,32s.e36329.site/logo.png,bao.e535.space/logo.png,qu.d9696.space/logo.png,qubao.d942696.space/logo.png,qubao.d5474.space/logo.png,qubao.h34234.site/logo.png-mayiqubao2-
+-mayiqubao2-qubao.f6866.site/logo.png,quabo.f6786.site/logo.png,	qubao.e57572.site/logo.png,32s.e36329.site/logo.png,bao.e535.space/logo.png,qu.d9696.space/logo.png,qubao.d942696.space/logo.png,qubao.d5474.space/logo.png,qubao.h34234.site/logo.png,qubao.g7970.site/logo.png-mayiqubao2-
 -tf-tf.e657.space/logo.png,tfvip.e32424.space/logo.png,tf.e657.space/logo.png,tf.b2427.space/logo.png,tf.a23424.live/logo.png-tf-
 -kok-kok.a5658.live/logo.png-kok-
 -miliao-im.a32234.live/logo.png,im.a2423.live/logo.png,ml.a2342.live/logo.png-miliao-
