@@ -15,7 +15,7 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -hq-hq.exrng.xyz/logo.png,guanqui.top/logo.png-hq-
 -hmjr-hm.f3537.site/logo.png,f3532.site/logo.png,f353.site/logo.png,f3453.site/logo.png,huanqiu.j23341.site/logo.png-hmjr-
 -ganghui-api.g798778.site/logo.png-ganghui-
--zhongnan-api.f68660.site/logo.png,api.j23444.site/logo.png,zhongnan.g67967.site/logo.png-zhongnan-
+-zhongnan-api.f68660.site/logo.png,api.j23444.site/logo.png,zhongnan.g67967.site/logo.png,api.h1232.site/logo.png-zhongnan-
 -guoxinjigou-api.h3221.site/logo.png,j23489.site/logo.png,api.j64421.site/logo.png-guoxinjigou-
 -ztcy-wap.g12333.site/logo.png,wap.g2342.site/logo.png,wap.g23426.site/logo.png,wap.g5642.site/logo.png-ztcy-
 -globalexchange-globalexchange.g4648.site/logo.png,globalexchange.g56753.site/logo.png,globalexchange.g9076.site/logo.png-globalexchange-
