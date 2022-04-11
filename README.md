@@ -21,5 +21,6 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -globalexchange-globalexchange.g4648.site/logo.png,globalexchange.g56753.site/logo.png,globalexchange.g9076.site/logo.png,globalexchange.h7977.site/logo.png-globalexchange-
 -xingye4-api.g67860.site/logo.png,api.g67867.site/logo.png,api.g6860.site/logo.png-xingye4-
 -gemini-gemini.j7977.site/logo.png-gemini-
+-gaohua-apigaohua.k1233.site/logo.png-gaohua-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 
