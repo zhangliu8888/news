@@ -1,5 +1,5 @@
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
--mayiquzhuan-quzhuan.h27978.site-mayiquzhuan-
+-mayiquzhuan-quzhuan.l7835.site/logo.png-mayiquzhuan-
 -xingye2-sm.e464.space/wap-xingye2-
 -xingye3-xy.e2342.space/wap/logo.png,xingye.c2408832.space/wap/logo.png,xingye.c24456432.space/wap/logo.png,simu.e453.space/wap/logo.png,sm.e464.space/wap/logo.png-xingye3-
 -mayiqubao-qubao.f6866.site-mayiqubao-
