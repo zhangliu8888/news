@@ -22,4 +22,5 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -gaohua-apigaohua.k1233.site/logo.png,apigaohua.k4645.site/logo.png-gaohua-
 -xinghuiyule-wap.j8353.site/logo.png,xinghui.k534534.site/logo.png,xinghui.k5464.site/logo.png,xinghui.k5465.site/logo.png,-xinghuiyule-
 -shanggangjituan-sgjt.l1528.site/logo.png,sgjt.l1627.site/logo.png,sgjt.l1919.site/logo.png,sgjt.l2063.site/logo.png,sgjt.l2273.site/logo.png,sgjt.l2339.site/logo.png,	sgjt.l1398.site/logo.png,sgjt.l3468.site/logo.png,sgjt.l3749.site/logo.png-shanggangjituan-
+-jiandanliao-www.l9000.site/logo.png,www.l9062.site/logo.png,-jiandanliao-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
