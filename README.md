@@ -1,7 +1,5 @@
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -mayiquzhuan-quzhuan.l7835.site/logo.png,quzhuan.k4916.site/logo.png-mayiquzhuan-
--xingye2-sm.e464.space/wap-xingye2-
--xingye3-xy.e2342.space/wap/logo.png,xingye.c2408832.space/wap/logo.png,xingye.c24456432.space/wap/logo.png,simu.e453.space/wap/logo.png,sm.e464.space/wap/logo.png-xingye3-
 -mayiqubao-qubao.f6866.site-mayiqubao-
 -mayiqubao2-qubao.f6866.site/logo.png,quabo.f6786.site/logo.png,	qubao.e57572.site/logo.png,32s.e36329.site/logo.png,bao.e535.space/logo.png,qu.d9696.space/logo.png,qubao.d942696.space/logo.png,qubao.d5474.space/logo.png,qubao.h34234.site/logo.png,qubao.g7970.site/logo.png,qb.h26786.site/logo.png,qubao.k65445.site/logo.png-mayiqubao2-
 -tf-tf.e657.space/logo.png,tfvip.e32424.space/logo.png,tf.e657.space/logo.png,tf.b2427.space/logo.png,tf.a23424.live/logo.png-tf-
@@ -15,7 +13,7 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -guoxinjigou-api.h3221.site/logo.png,j23489.site/logo.png,api.j64421.site/logo.png-guoxinjigou-
 -ztcy-wap.g12333.site/logo.png,wap.g2342.site/logo.png,wap.g23426.site/logo.png,wap.g5642.site/logo.png-ztcy-
 -globalexchange-globalexchange.g4648.site/logo.png,globalexchange.g56753.site/logo.png,globalexchange.g9076.site/logo.png,globalexchange.h7977.site/logo.png-globalexchange-
--xingye4-api.g67860.site/logo.png,api.g67867.site/logo.png,api.g6860.site/logo.png-xingye4-
+-xingye4-api.k6922.site/logo.png,api.k7250.site/logo.png-xingye4-
 -gemini-gemini.j7977.site/logo.png-gemini-
 -gaohua-apigaohua.k1233.site/logo.png,apigaohua.k4645.site/logo.png-gaohua-
 -xinghuiyule-wap.j8353.site/logo.png,xinghui.k534534.site/logo.png,xinghui.k5464.site/logo.png,xinghui.k5465.site/logo.png,-xinghuiyule-
