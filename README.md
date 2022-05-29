@@ -20,4 +20,5 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -shanggangjituan-sgjt.l1528.site/logo.png,sgjt.l1627.site/logo.png,sgjt.l1919.site/logo.png,sgjt.l2063.site/logo.png,sgjt.l2273.site/logo.png,sgjt.l2339.site/logo.png,	sgjt.l1398.site/logo.png,sgjt.l3468.site/logo.png,sgjt.l3749.site/logo.png-shanggangjituan-
 -jiandanliao-www.l9000.site/logo.png,www.l9062.site/logo.png,-jiandanliao-
 -bitbank-bitbanke.k5835.site/logo.png-bitbank-
+-haitong-haitongapi.k8763.site/logo-haitong-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
