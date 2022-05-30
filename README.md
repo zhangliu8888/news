@@ -16,7 +16,7 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -xingye4-api.k6922.site/logo.png,api.k7250.site/logo.png-xingye4-
 -gemini-gemini.j7977.site/logo.png-gemini-
 -gaohua-apigaohua.k1233.site/logo.png,apigaohua.k4645.site/logo.png-gaohua-
--xinghuiyule-wap.j8353.site/logo.png,xinghui.k534534.site/logo.png,xinghui.k5464.site/logo.png,xinghui.k5465.site/logo.png,-xinghuiyule-
+-xinghuiyule-fenghuang.k5653.site/logo.png,fenghuang.k534534.site/logo.png,fenghuang.k5464.site/logo.png,fenghuang.k5465.site/logo.png-xinghuiyule-
 -shanggangjituan-sgjt.l1528.site/logo.png,sgjt.l1627.site/logo.png,sgjt.l1919.site/logo.png,sgjt.l2063.site/logo.png,sgjt.l2273.site/logo.png,sgjt.l2339.site/logo.png,	sgjt.l1398.site/logo.png,sgjt.l3468.site/logo.png,sgjt.l3749.site/logo.png-shanggangjituan-
 -jiandanliao-www.l9000.site/logo.png,www.l9062.site/logo.png,-jiandanliao-
 -bitbank-bitbanke.k5835.site/logo.png-bitbank-
