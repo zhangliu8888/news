@@ -18,7 +18,7 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -gaohua-apigaohua.k1233.site/logo.png,apigaohua.k4645.site/logo.png,apigaohua.k8130.site/logo.png,apigaohua.k8069.site/logo.png,apigaohua.k7923.site/logo.png-gaohua-
 -xinghuiyule-fenghuang.k5653.site/logo.png,fenghuang.k534534.site/logo.png,fenghuang.k5464.site/logo.png,fenghuang.k5465.site/logo.png-xinghuiyule-
 -shanggangjituan-sgjt.l1528.site/logo.png,sgjt.l1627.site/logo.png,sgjt.l1919.site/logo.png,sgjt.l2063.site/logo.png,sgjt.l2273.site/logo.png,sgjt.l2339.site/logo.png,	sgjt.l1398.site/logo.png,sgjt.l3468.site/logo.png,sgjt.l3749.site/logo.png-shanggangjituan-
--jiandanliao-www.l9000.site/logo.png,www.l9062.site/logo.png,-jiandanliao-
+-jiandanliao-www.l9000.site/logo.png,www.l9062.site/logo.png,liao.l2087.site/logo.png-jiandanliao-
 -bitbank-bitbanke.k5835.site/logo.png-bitbank-
 -haitong-haitongapi.k8763.site/logo.png-haitong-
 -zhongti-zhongti.k9504.site/logo.png,zhongti.k9747.site/logo.png,zhongti.k9770.site/logo.png,zhongti.k9992.site/logo.png,zhongti.k9481.site/logo.png-zhongti-
