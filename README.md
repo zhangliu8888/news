@@ -23,4 +23,5 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -haitong-haitongapi.k8763.site/logo.png-haitong-
 -zhongti-zhongti.k9504.site/logo.png,zhongti.k9747.site/logo.png,zhongti.k9770.site/logo.png,zhongti.k9992.site/logo.png,zhongti.k9481.site/logo.png-zhongti-
 -shuzijinji-shuzi.k9523.site/logo.png,shuzi.l10098.site/logo.png,shuzi.k9223.site/logo.png-shuzijinji-
+-gat-www.gat608.com/logo.png,www.gat601.com/logo.png,www.gat606.com/logo.png,www.gat603.com/logo.png,www.gat602.com/logo.png,-gat-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
