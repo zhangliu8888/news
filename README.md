@@ -20,4 +20,5 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -shuzijinji-shuzi.k9523.site/logo.png,shuzi.l10098.site/logo.png,shuzi.k9223.site/logo.png-shuzijinji-
 -gat-www.gat608.com/logo.png,www.gat601.com/logo.png,www.gat606.com/logo.png,www.gat603.com/logo.png,www.gat602.com/logo.png,www.gat106.com/logo.png,www.gat108.com/logo.png-gat-
 -duocaigongyi-duocaigongyi.i6662.site/logo.png,duocaigongyi.i6718.site/logo.png,duocaigongyi.i6755.site/logo.png,duocaigongyi.i6770.site/logo.png-duocaigongyi-
+-dht-dht.i4798.life/logo.png,dht.i4925.life/logo.png,dht.i4473.life/logo.png,dht.i4473.life/logo.png,dht.i4473.life/logo.png-dht-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
