@@ -22,4 +22,5 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -duocaigongyi-duocaigongyi.i6662.site/logo.png,duocaigongyi.i6718.site/logo.png,duocaigongyi.i6755.site/logo.png,duocaigongyi.i6770.site/logo.png-duocaigongyi-
 -dht-dht.i4798.life/logo.png,dht.i4925.life/logo.png,dht.i4473.life/logo.png,dht.i4473.life/logo.png,dht.i4473.life/logo.png-dht-
 -mogendatong-apimorgan.i4413.site/logo.png-mogendatong-
+-gaoping-frequency.i4612.site-gaoping-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
