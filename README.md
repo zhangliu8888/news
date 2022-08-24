@@ -9,7 +9,7 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -guoxinjigou-api.h3221.site/logo.png,j23489.site/logo.png,api.j64421.site/logo.png-guoxinjigou-
 -ztcy-wap.g12333.site/logo.png,wap.g2342.site/logo.png,wap.g23426.site/logo.png,wap.g5642.site/logo.png-ztcy-
 -globalexchange-globalexchange.g4648.site/logo.png,globalexchange.g56753.site/logo.png,globalexchange.g9076.site/logo.png,globalexchange.h7977.site/logo.png-globalexchange-
--gaohua-api.j2582.site/logo.png,api.j2917.site/logo.png,api.j2868.site/logo.png,api.j2841.site/logo.png-gaohua-
+-gaohua-gaohuaapi.k8801.site/logo.png,gaohuaapi.k8501.site/logo.png-gaohua-
 -bitbank-bitbanke.k5835.site/logo.png,bitbank.k5351.site/logo.png-bitbank-
 -haitong-haitongapi.k8763.site/logo.png,api.i8660.life/logo.png-haitong-
 -zhongti-zhongti.k9504.site/logo.png,zhongti.k9747.site/logo.png,zhongti.k9770.site/logo.png,zhongti.k9992.site/logo.png,zhongti.k9481.site/logo.png-zhongti-
