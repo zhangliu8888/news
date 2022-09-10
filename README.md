@@ -15,6 +15,6 @@ myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 -dht-dht.i4798.life/logo.png,dht.i4925.life/logo.png,dht.i4473.life/logo.png,dht.i4473.life/logo.png,dht.i4473.life/logo.png-dht-
 -lingfeng-huanqiu.i7447.site/logo.png-lingfeng-
 -mogendatong-morgan.n1880.life/logo.png-mogendatong-
--gaoping-frequency.i4612.site/wap/logo.png,frequency.m10122.site/wap/logo.png-gaoping-
+-gaoping-frequency.n4502.life/wap/logo.png-gaoping-
 -zhongnonglihua-zhongnong.k6939.site/logo.png,zhongnong.k2318.site/logo.png,zhongnong.k3180.site/logo.png-zhongnonglihua-
 myflaggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
