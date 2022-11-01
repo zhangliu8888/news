@@ -14,4 +14,5 @@ myflagggggggggggggggggggggggggggggggggg
 -zhongnonglihua-zhongnong.k6939.site/logo.png,zhongnong.k2318.site/logo.png,zhongnong.k3180.site/logo.png-zhongnonglihua-
 -okcoin-okcoin.66487.top/logo.png,okcoin.86203.top/logo.png,okcoin.96460.top/logo.png,okcoin.91903.top/logo.png,okcoin.89760.top/logo.png-okcoin-
 -okcoin2-okcoin.37587.cyou/logo.png,okcoinvip.com/logo.png-okcoin2-
+-ftk-ftktoken.com/logo.png-ftk-
 myflagggggggggggggggggggggggggggggggg
