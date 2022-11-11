@@ -16,4 +16,5 @@ myflagggggggggggggggggggggggggggggggggg
 -okcoin2-okcoin.37587.cyou/logo.png,okcoinvip.com/logo.png,okcoinvip.44521.bond/logo.png-okcoin2-
 -ftk-ftktoken.com/logo.png-ftk-
 -mellonitf-app.53802.cyou/logo.png-mellonitf-
+-mayiquzhuan2-mayi.53961.cyou/logo.png-mayiquzhuan2-
 myflagggggggggggggggggggggggggggggggg
