@@ -1,6 +1,6 @@
 myflagggggggggggggggggggggggggggggggggg
 -mayiquzhuan-quzhuan.l7835.site/logo.png,quzhuan.k4916.site/logo.png,quzhuan.i4070.life/logo.png-mayiquzhuan-
--mayiqubao2-qubao.10409.top/logo.png,qubao.i4173.life/logo.png-mayiqubao2-
+-mayiqubao2-qubao.10409.top/logo.png,qubao.i4173.life/logo.png,qubao.14901.top/logo.png-mayiqubao2-
 -zhongnan-zhongnan.42565.top/logo.png,zhongnan.35900.top/logo.png-zhongnan-
 -guoxinjigou-api.h3221.site/logo.png,j23489.site/logo.png,api.j64421.site/logo.png-guoxinjigou-
 -globalexchange-globalexchange.g4648.site/logo.png,globalexchange.g56753.site/logo.png,globalexchange.g9076.site/logo.png,globalexchange.h7977.site/logo.png-globalexchange-
