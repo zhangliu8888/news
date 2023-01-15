@@ -19,5 +19,5 @@ myflagggggggggggggggggggggggggggggggggg
 -mayiquzhuan2-mayi.53961.cyou/logo.png-mayiquzhuan2-
 -alichuangtou-md.10934.top/web/logo.png,alibaba.10116.top/web/logo.png-alichuangtou-
 -lse-www.lselondon.top/logo.png-lse-
--shuziliansheng-www.lselondon.top/logo.png-shuziliansheng-
+-shuziliansheng-www.shuziliansheng75.top/logo.png,www.shuziliansheng41.top/logo.png,www.shuziliansheng45.top/logo.png-shuziliansheng-
 myflagggggggggggggggggggggggggggggggg
