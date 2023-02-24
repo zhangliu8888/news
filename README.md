@@ -20,5 +20,5 @@ myflagggggggggggggggggggggggggggggggggg
 -alichuangtou-md.10934.top/web/logo.png,alibaba.10116.top/web/logo.png,ali.shuziyiliao12.top/web/logo.png,ali.mifesa.com/web/logo.png-alichuangtou-
 -lse22-www.lselondon.top/logo.png-lse22-
 -shuziliansheng-www.shuziliansheng75.top/logo.png,www.shuziliansheng41.top/logo.png,www.shuziliansheng45.top/logo.png,156.226.8.201/logo.png-shuziliansheng-
--ruizhe-206.119.81.85/logo.png,ruizhe.shuzichuangxin78.top/logo.png-ruizhe-
+-ruizhe-206.119.81.85/logo.png,ruizhe.shuzichuangxin78.top/logo.png,ruizhe.cgws151.top/logo.png-ruizhe-
 myflagggggggggggggggggggggggggggggggg
