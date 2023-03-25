@@ -16,7 +16,7 @@ myflagggggggggggggggggggggggggggggggggg
 -ftk-ftktoken.com/logo.png-ftk-
 -mellonitf-app.53802.cyou/logo.png-mellonitf-
 -mayiquzhuan2-mayi.53961.cyou/logo.png-mayiquzhuan2-
--alichuangtou-md.10934.top/web/logo.png,alibaba.10116.top/web/logo.png,ali.shuziyiliao12.top/web/logo.png,ali.mifesa.com/web/logo.png,ali.69467.top/web/logo.png-alichuangtou-
+-alichuangtou-ali.99159.top/web/logo.png,alibaba.10116.top/web/logo.png,ali.shuziyiliao12.top/web/logo.png,ali.mifesa.com/web/logo.png,ali.69467.top/web/logo.png-alichuangtou-
 -lse22-www.lselondon.top/logo.png-lse22-
 -shuziliansheng-www.shuziliansheng75.top/logo.png,www.shuziliansheng41.top/logo.png,www.shuziliansheng45.top/logo.png,156.226.8.201/logo.png-shuziliansheng-
 -ruizhe-206.119.81.85/logo.png,ruizhe.shuzichuangxin78.top/logo.png,ruizhe.cgws151.top/logo.png-ruizhe-
