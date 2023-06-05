@@ -23,4 +23,5 @@ myflagggggggggggggggggggggggggggggggggg
 -ruizhe-206.119.81.85/logo.png,ruizhe.shuzichuangxin78.top/logo.png,ruizhe.cgws151.top/logo.png-ruizhe-
 -zyht-zhongyin.157394.top/h5/logo.png,zhongyin.17399.top/h5/logo.png,zhongyin.171836.top/h5/logo.png-zyht-
 -saxs-saxo.12543.top/h5/logo.png-saxs-
+-gtja-gtja.139623.top/logo.png-gtja-
 myflagggggggggggggggggggggggggggggggg
