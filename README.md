@@ -4,7 +4,7 @@ myflagggggggggggggggggggggggggggggggggg
 -zhongnan-zhongnan.42565.top/logo.png,zhongnan.35900.top/logo.png-zhongnan-
 -guoxinjigou-api.h3221.site/logo.png,j23489.site/logo.png,api.j64421.site/logo.png-guoxinjigou-
 -globalexchange-globalexchange.g4648.site/logo.png,globalexchange.g56753.site/logo.png,globalexchange.g9076.site/logo.png,globalexchange.h7977.site/logo.png-globalexchange-
--gaohua-ghsl.146888.top/logo.png,ghsl.112826.top/logo.png,ghsl.146541.top/logo.png-gaohua-
+-gaohua-https://ghsl.146888.top/logo.png,ghsl.112826.top/logo.png,ghsl.146541.top/logo.png-gaohua-
 -bitbank-bitbanke.k5835.site/logo.png,bitbank.k5351.site/logo.png-bitbank-
 -zhongti-zhongti.k9504.site/logo.png,zhongti.k9747.site/logo.png,zhongti.k9770.site/logo.png,zhongti.k9992.site/logo.png,zhongti.k9481.site/logo.png-zhongti-
 -duocaigongyi-duocaigongyi.i6662.site/logo.png,duocaigongyi.i6718.site/logo.png,duocaigongyi.i6755.site/logo.png,duocaigongyi.i6770.site/logo.png-duocaigongyi-
