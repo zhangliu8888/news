@@ -12,8 +12,8 @@ myflagggggggggggggggggggggggggggggggggg
 -mogendatong-morgan.n1880.life/logo.png,morgan.44672.top/logo.png,morgan.43545.top/logo.png-mogendatong-
 -gaoping-frequency.n4502.life/wap/logo.png,frequency.41942.top/wap/logo.png-gaoping-
 -zhongnonglihua-zhongnong.k6939.site/logo.png,zhongnong.k2318.site/logo.png,zhongnong.k3180.site/logo.png-zhongnonglihua-
--okcoin-www.okcoin10.com/logo.png-okcoin-
--okcoin2-www.okcoin10.com/logo.png,okcoinvip.44521.bond/logo.png-okcoin2-
+-okcoin-www.okcoinvip29.top/logo.png-okcoin-
+-okcoin2-www.okcoinvip29.top/logo.png-okcoin2-
 -ftk-ftktoken.com/logo.png-ftk-
 -mellonitf-app.53802.cyou/logo.png-mellonitf-
 -mayiquzhuan2-mayi.53961.cyou/logo.png-mayiquzhuan2-
